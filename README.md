@@ -69,8 +69,7 @@ connectCode의 취지는 개발자로서의 꿈을 이루기 위해 노력하고
 <h2>4. ERD 및 작업흐름도</h2>
 <div id="Erd">
 <h3> 📌 ERD 구조</h3>
-<img src="[https://i.imgur.com/7YzFkbl.png](https://github.com/Land66Land/connectCode/assets/130443015/284ad0b7-6cb7-4f9b-9a43-7d14bda460e6)" >
-  ![erd레알최종](https://github.com/Land66Land/connectCode/assets/130443015/284ad0b7-6cb7-4f9b-9a43-7d14bda460e6)
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/130443015/257718389-284ad0b7-6cb7-4f9b-9a43-7d14bda460e6.jpg" >
 
 <h3> 📌 작업흐름도</h3>  
 <img width="100%" alt="작업흐름도" src="https://github.com/Land66Land/connectCode/assets/130443015/dbbc23c5-0f03-4dc9-bc67-ef96a88704ce">
